@@ -1,4 +1,4 @@
-The Rainbox and The Unicorn
+The Rainbox and The Unicorn and the Ponies
 
 Purple
 Pink
@@ -7,7 +7,9 @@ Blue
 Indigo
 Green
 Unicorn
+Pony
 Yellow
 Red
 These are the colors of the rainbow.
 And the unicorn
+And the pony
